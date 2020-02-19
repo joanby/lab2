@@ -13,7 +13,7 @@
 ## Evaluación
 
 * 40%: Talleres evaluables
- * Taller 1: 6 de Marzo, Sage
+  * Taller 1: 6 de Marzo, Sage
 * 30%: Examen parcial
 * 30%: Examen Final
 
