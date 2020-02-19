@@ -22,3 +22,4 @@
   * Apuntarse gratuitamente a los 4 cursos online en Udemy
   * Instalar R, y RStudio
   * Crear cuenta de Github
+  * Vincular el proyecto de Github en RStudio
