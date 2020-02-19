@@ -15,3 +15,10 @@
 + 40%: Talleres evaluables
 + 30%: Examen parcial
 + 30%: Examen Final
+
+## Temporización
+
+* Clase 1: 
+  * Apuntarse gratuitamente a los 4 cursos online en Udemy
+  * Instalar R, y RStudio
+  * Crear cuenta de Github
