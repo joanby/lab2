@@ -5,17 +5,20 @@
 
 ## El temario del curso
 
-1. Sage
-1. Descriptiva
-1. Probabilidad
-1. Estadística Inferecial
+1. [Resuelve problemas de matemáticas con Python/Sage desde cero](https://www.udemy.com/course/sagemath/)
+1. [Curso completo de Estadística descriptiva - RStudio y Python](https://www.udemy.com/course/estadistica-descriptiva/)
+1. [Probabilidad para Machine Learning y Big Data con R y Python](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/)
+1. [Estadística inferencial para Machine Learning con R y Python](https://www.udemy.com/course/estadisticainferencial/)
 
 ## Evaluación
 
 * 40%: Talleres evaluables
   * Taller 1: 6 de Marzo, Sage
-* 30%: Examen parcial
-* 30%: Examen Final
+  * Taller 2: Pendiente
+  * Taller 3: Pendiente
+  * Taller 4: Pendiente
+* 30%: Examen parcial: 24 de Abril
+* 30%: Examen Final: 15 de Junio
 
 ## Temporización
 
