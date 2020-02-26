@@ -1,0 +1,22 @@
+---
+title: "Clase 3"
+author: "Juan Gabriel Gomila"
+date: "2/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Vectores
+
+```{r}
+c(1,2,3)
+```
+
+
+```{r}
+bolas = c(rep('Roja', 7), rep("Azul", 3))
+```
+
