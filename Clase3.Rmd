@@ -18,5 +18,15 @@ c(1,2,3)
 
 ```{r}
 bolas = c(rep('Roja', 7), rep("Azul", 3))
+
+año = rep(1988, 10)
+
+
+mi_function = function(x){
+  (x^2-1)/(x^2+1)
+}
+
+mi_function(x)
+sapply(x, FUN=mi_function)
 ```
 
