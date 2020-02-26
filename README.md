@@ -33,4 +33,8 @@
   * [Tema 2: Documentación con R Markdown](https://github.com/joanby/r-basic.git)
   * Ejercicios: Revisar los temas homónimos del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/)
   * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
-* Clase 3: COMING SOON
+* Clase 3: 
+  * [Tema 3: Vectores, Listas y Matrices en R](https://github.com/joanby/r-basic.git)
+  * [Tema 4: Introducción a la representación gráfica](https://github.com/joanby/r-basic.git)
+  * Ejercicios: Revisar los temas homónimos del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/)
+  * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
