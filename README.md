@@ -43,4 +43,10 @@
   * [Tema 6: Análisis de datos cualitativos (hasta trans. 18](https://github.com/joanby/r-basic.git)
   * Ejercicios: Revisar la Sección 8 y la 9 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
   * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
-
+* Clase 5 (con Arnau Mir):
+  * [Tema 0: Repaso de combinatoria](https://github.com/joanby/probabilidad.git)
+  * [Tema 1: Cálculo de probabilidades](https://github.com/joanby/probabilidad.git)
+   * Ejercicios: Revisar la Sección 3 y la 4 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/).
+  * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
+* Clase 6 (con Llorenç Valverde):
+  * Taller evaluable 1 de Sage
