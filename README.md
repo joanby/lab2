@@ -38,4 +38,9 @@
   * [Tema 4: Introducción a la representación gráfica](https://github.com/joanby/r-basic.git)
   * Ejercicios: Revisar la Sección 5 y la 7 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
   * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
+* Clase 4: 
+  * [Tema 5: Data Frames](https://github.com/joanby/r-basic.git)
+  * [Tema 6: Análisis de datos cualitativos (hasta trans. 18](https://github.com/joanby/r-basic.git)
+  * Ejercicios: Revisar la Sección 8 y la 9 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+  * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
 
