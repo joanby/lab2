@@ -1,0 +1,23 @@
+---
+title: "Clase 4"
+author: "Juan Gabriel Gomila"
+date: "2/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Frames
+
+```{r}
+head(iris,3)
+
+tail(iris, 4)
+
+str(iris)
+
+names(iris)
+```
+

@@ -1,0 +1,47 @@
+---
+title: "Datos Cualitativos"
+author: "Juan Gabriel Gomila"
+date: "3/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Paso 1: Carga de datos
+```{r}
+datos = read.table("EnergyDrink", header = TRUE)
+head(datos)
+str(datos)
+
+summary(datos)
+
+table(datos)
+
+ftable(datos)
+
+
+barplot(table(datos$estudio),
+        main = "Estudios universitarios", 
+        col = c("red", "green", "blue", "yellow"),
+        xlab = "Estudios", 
+        ylab = "Número de Personas")
+
+
+
+barplot(prop.table(table(datos$bebe, datos$estudio), margin = 2), legend.text = TRUE, col = c("black", "yellow"), beside = FALSE)
+
+
+pie(table(datos$estudio), col = c("red", "yellow", "green", "blue"))
+
+plot(table(datos$sexo, datos$bebe, datos$estudio), col = c("blue", "green", "red", "yellow"))
+
+install.packages("vcdExtra")
+
+
+library(vcdExtra)
+install.packages("rgl")
+mosaic3d(table(datos))
+```
+
