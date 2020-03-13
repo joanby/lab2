@@ -40,7 +40,7 @@
   * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
 * Clase 4: 
   * [Tema 5: Data Frames](https://github.com/joanby/r-basic.git)
-  * [Tema 6: Análisis de datos cualitativos (hasta trans. 18](https://github.com/joanby/r-basic.git)
+  * [Tema 6: Análisis de datos cualitativos (hasta trans. 18)](https://github.com/joanby/r-basic.git)
   * Ejercicios: Revisar la Sección 8 y la 9 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
   * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
 * Clase 5 (con Arnau Mir):
@@ -50,3 +50,22 @@
   * Ejercicios: Hacer [el curso de Sage para el día 6 de Marzo](https://www.udemy.com/course/sagemath/)
 * Clase 6 (con Llorenç Valverde):
   * Taller evaluable 1 de Sage
+* Clase 7:
+  * [Tema 6: Análisis de datos cualitativos](https://github.com/joanby/r-basic.git)
+  * Ejercicios: Revisar la Sección 9 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+* Clase 8:
+  * [Tema 7: Análisis de datos ordinales](https://github.com/joanby/r-basic.git)
+  * [Tema 8: Análisis de datos cuantitativos](https://github.com/joanby/r-basic.git)
+  * Ejercicios: Revisar la Sección 10 y 11 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+* Clase 9 (**en remoto debido a la suspensión de clases**):
+  * [Tema 9: Análisis de datos cuantitativos agrupados](https://github.com/joanby/r-basic.git)
+  * Ejercicios: Revisar la Sección 12 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+* Clase 10 (**en remoto debido a la suspensión de clases**):
+  * [Tema 1: Probabildad](https://github.com/joanby/probabilidad.git)
+  * Ejercicios: Revisar la Sección 4 y 5 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+* Clase 11 (**en remoto debido a la suspensión de clases**):
+  * [Tema 2: Variables Aleatorias](https://github.com/joanby/probabilidad.git)
+  * Ejercicios: Revisar la Sección 6 y 7 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+* Clase 12 (**en remoto debido a la suspensión de clases**):
+  * [Tema 3: Distribuciones Notables](https://github.com/joanby/probabilidad.git)
+  * Ejercicios: Revisar la Sección 8 y 9 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
