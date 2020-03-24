@@ -14,10 +14,10 @@
 
 * 40%: Talleres evaluables
   * Taller 1: 6 de Marzo, Sage
-  * Taller 2: Pendiente
+  * Taller 2: 27 de Marzo, Estadística Descriptiva
   * Taller 3: Pendiente
   * Taller 4: Pendiente
-* 30%: Examen parcial: 24 de Abril
+* 30%: Examen parcial: 24 de Abril (pendiente de la evolución de la cuarentena)
 * 30%: Examen Final: 15 de Junio
 
 ## Temporización
@@ -62,10 +62,12 @@
   * Ejercicios: Revisar la Sección 12 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
 * Clase 10 (**en remoto debido a la suspensión de clases**):
   * [Tema 1: Probabildad](https://github.com/joanby/probabilidad.git)
-  * Ejercicios: Revisar la Sección 4 y 5 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+  * Ejercicios: Revisar la Sección 4 y 5 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/).
 * Clase 11 (**en remoto debido a la suspensión de clases**):
   * [Tema 2: Variables Aleatorias](https://github.com/joanby/probabilidad.git)
-  * Ejercicios: Revisar la Sección 6 y 7 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+  * Ejercicios: Revisar la Sección 6 y 7 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/).
 * Clase 12 (**en remoto debido a la suspensión de clases**):
+  * Taller evaluable 2 de descriptiva: analizar un data set con todo lo aprendido en las clases del curso de estadística descriptiva.
+* Clase 13 (**en remoto debido a la suspensión de clases**):
   * [Tema 3: Distribuciones Notables](https://github.com/joanby/probabilidad.git)
-  * Ejercicios: Revisar la Sección 8 y 9 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
+  * Ejercicios: Revisar la Sección 8 y 9 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/).
