@@ -18,6 +18,7 @@
   * Taller 3: Pendiente
   * Taller 4: Pendiente
 * 30%: Examen parcial: 24 de Abril (pendiente de la evolución de la cuarentena)
+  * Dos ejercicios evaluables de probabilidad y variables aleatorias: 3 de Abril
 * 30%: Examen Final: 15 de Junio
 
 ## Temporización
@@ -71,3 +72,5 @@
 * Clase 13 (**en remoto debido a la suspensión de clases**):
   * [Tema 3: Distribuciones Notables](https://github.com/joanby/probabilidad.git)
   * Ejercicios: Revisar la Sección 8 y 9 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/).
+* Clase 14 (**en remoto debido a la suspensión de clases**):
+  * Ejercicios evaluables de probabilidad y variables aleatorias
