@@ -68,9 +68,14 @@
   * [Tema 2: Variables Aleatorias](https://github.com/joanby/probabilidad.git)
   * Ejercicios: Revisar la Sección 6 y 7 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/).
 * Clase 12 (**en remoto debido a la suspensión de clases**):
-  * Taller evaluable 2 de descriptiva: analizar un data set con todo lo aprendido en las clases del curso de estadística descriptiva.
+  * [Tema 10: Introducción a la regresión lineal] (https://github.com/joanby/r-basic.git)
+  * Ejercicios: Revisar la Sección 13 del [Curso de Estadística Descriptiva en Udemy](https://www.udemy.com/course/estadistica-descriptiva/).
 * Clase 13 (**en remoto debido a la suspensión de clases**):
+  * Taller evaluable 2 de descriptiva: analizar un data set con todo lo aprendido en las clases del curso de estadística descriptiva.
   * [Tema 3: Distribuciones Notables](https://github.com/joanby/probabilidad.git)
   * Ejercicios: Revisar la Sección 8 y 9 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/).
 * Clase 14 (**en remoto debido a la suspensión de clases**):
+  * [Tema 4:Variables Aleatorias. Complementos](https://github.com/joanby/probabilidad.git)
+  * Ejercicios: Revisar la Sección 10 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/). CUIDADO!! Sección difícil!!
+* Clase 15 (**en remoto debido a la suspensión de clases**):
   * Ejercicios evaluables de probabilidad y variables aleatorias
