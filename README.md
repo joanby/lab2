@@ -79,3 +79,43 @@
   * Ejercicios: Revisar la Sección 10 del [Curso de Probabilidad en Udemy](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/). CUIDADO!! Sección difícil!!
 * Clase 15 (**en remoto debido a la suspensión de clases**):
   * Ejercicios evaluables de probabilidad y variables aleatorias
+* Clase 16, 22/04 (**en remoto debido a la suspensión de clases**):
+  * Tutoria grupal para reolver dudas
+* Clase 17, 24/04 (**en remoto debido a la suspensión de clases**):
+  * **Parcial del curso**
+  * [Tema 1: Muestreo estadístico](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 3 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).
+* Clase 18 29/04 (**en remoto debido a la suspensión de clases**):
+  * Tutoria grupal para dudas (en Discord)
+  * [Tema 2: Estimación Puntual](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 4 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).
+* Clase 19 01/05 (**en remoto debido a la suspensión de clases**):
+  * [Tema 3: Intervalos de Confianza](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 5 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).  
+* Clase 20 06/05 (**en remoto debido a la suspensión de clases**):
+  * Tutoria grupal para dudas (en Discord)
+  * [Tema 4: Contrastes de Hipótesis paramétricos](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 7 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).
+* Clase 21 08/05 (**en remoto debido a la suspensión de clases**):
+  * Taller evaluable 3 de inferencia 1: muestreo, estimación, intervalos y contrastes
+* Clase 22 13/05 (**en remoto debido a la suspensión de clases**):
+  * Tutoria grupal para dudas (en Discord)
+  * [Tema 5: Bondad de Ajuste](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 8 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).
+* Clase 23 15/05 (**en remoto debido a la suspensión de clases**):
+  * [Tema 6: Independencia y Homogeneidad](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 9 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).
+* Clase 24 20/05 (**en remoto debido a la suspensión de clases**):
+  * Tutoria grupal para dudas (en Discord)
+  * [Tema 7: ANOVA](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 10 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).
+* Clase 25  22/05 (**en remoto debido a la suspensión de clases**):
+  * [Tema 8: Regresión (versión extendida)](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 11 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).
+* Clase 26 27/05 (**en remoto debido a la suspensión de clases**):
+  * Tutoria grupal para dudas (en Discord)
+  * [Tema 9: Clustering](https://github.com/joanby/estadistica-inferencial.git)
+  * Ejercicios: Revisar la Sección 12 del [Curso de Estadística Inferencial en Udemy](https://www.udemy.com/course/estadisticainferencial/).
+* Clase 27  29/05 (**en remoto debido a la suspensión de clases**):
+    * Taller evaluable 4 de inferencia 2: bondad de ajuste, contrastes de homogeneidad, independencia, ANOVA, regresión y clustering
+* Clase 28: **EXAMEN FINAL**
